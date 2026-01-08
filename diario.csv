@@ -1,2 +1,2 @@
-data,tipo_refeicao,alimento, quantidade,energia (kcal),carboidratos (g),proteinas (g),gorduras (g),quantidade
-08/01/2026,desjejum,Granola Tradicional,,148.0,23.0,4.1,4.6,40.0
+data,tipo_refeicao,alimento,quantidade,energia (kcal),carboidratos (g),proteinas (g),gorduras (g)
+08/01/2026,almoço,Banana,100,109.0,26.7,1.27,0.19

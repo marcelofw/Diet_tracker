@@ -1,4 +1,4 @@
-#%% 
+import streamlit as st
 import pandas as pd
 import datetime
 
@@ -94,7 +94,45 @@ def exibir_status_diario():
     print(f"Proteinas: {totais['proteinas (g)']} / {META_PROTEINAS}")
     print(f"Gorduras: {totais['gorduras (g)']} / {META_GORDURAS}")
 
+st.title('Diet tracker')
+
+aba1, aba2 = st.tabs(['Diário', 'Cadastrar Alimento'])
+
+with aba1:
+    st.header('O que você comeu hoje?')
+    alimentos, diario = inicializar_dados()
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        refeicao = st.selectbox('Refeição', ['Café da manhã', 'Almoço', 'Janta'])
+    with col2:
+        alimento = st.selectbox('Alimento', alimentos['alimento'].unique())
+    with col3:
+        quantidade = st.number_input('Quantidade', min_value = 1)
+
+    if st.button('Lançar no Diário'):
+        mensagem = add_alimento_ao_diario(refeicao, alimento, quantidade)
+        st.success(mensagem)
+
+with aba2:
+    st.header('Novo Alimento no Cardápio')
+    cadastrar_alimento()
 
 
 
-# %%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
