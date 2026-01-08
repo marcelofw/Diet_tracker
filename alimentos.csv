@@ -1,0 +1,108 @@
+alimento,quantidade,energia (kcal),carboidratos (g),proteinas (g),gorduras (g)
+Granola Tradicional,40.0,148.0,23.0,4.1,4.6
+Granola Cranberry e Açai,40.0,154.0,28.0,4.3,2.7
+Granola Frutas Tropicais,40.0,158.0,23.0,5.0,5.0
+Aveia em flocos finos Quaker,30.0,111.0,17.0,4.2,2.3
+Tapioca Amifil,20.0,48.0,12.0,0.0,0.0
+Arroz polido cozido,100.0,130.0,30.0,2.38,0.41
+Banana,100.0,109.0,26.7,1.27,0.19
+Brócolis,100.0,26.0,4.44,2.71,0.54
+Feijão cozido 50% grão 50% caldo sem óleo,100.0,70.0,15.3,4.77,0.54
+Batata doce cozida drenada,100.0,91.0,23.1,0.85,0.18
+Batata inglesa cozida drenada,100.0,51.0,12.3,1.33,0.05
+Massa de arroz zero glúten Urbano cozida,100.0,173.0,38.0,3.2,0.8
+Lentilha cozida 50% grão 50% caldo com óleo,100.0,62.0,10.5,3.79,1.33
+Mandioca cozida drenada,100.0,120.0,29.8,0.64,0.24
+Mandioca frita,100.0,160.0,39.7,0.9,0.3
+Cenoura sem casca crua,100.0,30.0,7.55,1.12,0.21
+Farinha de trigo tipo 1 Maria Inês,100.0,347.0,72.0,11.0,1.7
+Aveia em flocos Apti,30.0,105.0,17.0,4.2,2.2
+Massa de esfiha assada,100.0,269.5,44.0,6.5,7.5
+Ketchup Heinz,12.0,11.0,2.4,0.2,0.01
+Pipoca estourada,100.0,435.0,70.3,9.93,15.9
+Melado,20.0,60.0,15.0,0.0,0.0
+Uva passa,100.0,325.0,79.2,3.07,0.46
+Pão de sanduíche Leite Sevenboys,50.0,130.0,26.0,4.3,1.0
+Capeletti de carne,100.0,301.0,49.0,10.0,7.2
+"Caldo da sopa de capeletti – com carne, batata, pts, milho",100.0,100.0,10.0,6.0,4.0
+Granola Natural Nutri Wieder,100.0,361.0,52.0,16.0,10.0
+Pão francês branco,100.0,299.0,61.6,9.83,2.12
+Macarrão com ovos Isabela,100.0,119.0,24.0,4.1,0.7
+Espaguete Bella Dica,100.0,132.0,28.0,3.7,0.5
+"Pão frutas, grãos e castanhas Nutrella",50.0,141.0,22.0,6.0,3.2
+Pão de xis Zaleski,50.0,140.0,29.0,4.2,1.0
+Maizena,20.0,70.0,17.0,0.0,0.0
+Maçã Fuji,100.0,59.0,15.2,0.29,0.0
+Pastel Strogonoff Médio,1.0,478.0,34.0,18.0,30.0
+Pastel Carne Médio,1.0,433.0,32.0,20.0,25.0
+Mamão polpa in natura,100.0,43.0,10.7,0.57,0.25
+Esfiha de carne,2.0,699.53,74.8,40.03,26.79
+Pão de milho,100.0,278.0,56.4,8.3,3.11
+Espagueti de arroz zero glúten Urbano cozida,100.0,173.0,38.0,3.2,0.8
+Pão de sanduíche Benefice Light 7 Grãos,50.0,117.0,19.0,6.8,1.5
+Massa Germani parafuso com ovos,100.0,132.0,28.0,3.7,0.5
+Massa Parati parufoso com ovos,100.0,206.0,42.0,7.0,0.9
+Melão,100.0,24.0,5.7,0.61,0.15
+Morango,100.0,29.0,6.54,0.82,0.4
+Espaguete Parati Sêmola,100.0,205.0,42.0,7.0,0.8
+Cup Noodles carne defumada,1.0,305.0,40.0,8.1,12.0
+Cup Noodles bolonhesa,1.0,316.0,40.0,8.8,13.0
+Manga polpa in natura,100.0,64.0,16.0,0.53,0.32
+Cup Noodles parmegiana,1.0,305.0,39.0,7.7,13.0
+Melancia,100.0,29.0,6.53,0.7,0.06
+Fatia de pizza Dom Pepe,1.0,180.0,16.0,10.0,9.0
+Abacaxi,100.0,49.0,11.6,0.68,0.33
+Miojo Nissin lamen sabor picanha,1.0,377.0,50.0,9.5,15.0
+,,,,,
+,,,,,
+Iogurte desnatado Nestlé,160.0,50.0,6.6,5.8,0.0
+Iogurte desnatado Danone,160.0,84.0,12.0,8.9,0.0
+Iogurte integral Danone,160.0,121.0,10.0,7.5,5.7
+Queijo minas frescal zero lactose,50.0,136.0,0.7,11.0,10.0
+Queijo minas frescal light Santa Clara,50.0,100.0,0.8,12.0,5.7
+Ricota fresca light,30.0,33.0,0.8,5.3,0.9
+Ovo,1.0,62.0,0.69,5.2,4.35
+Frango grelhado sem óleo,100.0,150.0,0.0,32.0,2.48
+Proteína de soja seca Cerélus,100.0,336.0,33.0,52.0,2.0
+Proteína de soja hidratada Cerélus,100.0,168.0,16.5,26.0,1.0
+Leite em pó desnatado Elegê,20.0,67.0,10.0,6.8,0.0
+Leite em pó integral Elegê,26.0,129.0,10.0,6.6,7.0
+Leite Ninho Nestlé em pó,100.0,468.0,54.0,13.0,21.0
+Leite integral Elegê,200.0,114.0,9.0,6.0,6.0
+Ervilha,,,,,
+Coxão mole cozida sem óleo,100.0,208.0,0.0,32.2,8.91
+Alcatra sem gordura grelhada sem óleo,100.0,236.0,0.0,32.6,11.7
+Picanha sem gordura grelhada sem óleo,100.0,233.0,0.0,32.0,11.7
+Coxa de frango assada com pele,100.0,207.0,0.06,28.5,10.4
+Sobrecoxa de frango assada com pele,100.0,251.0,0.0,28.7,15.2
+Leite em pó integral Piracanjuba,25.0,127.0,10.0,7.0,6.5
+Carne moída acém cozida sem óleo,100.0,205.0,0.0,26.7,10.9
+Proteína de soja texturizada granulada Nutri Wieder,100.0,141.0,16.0,50.0,2.0
+Proteína de soja texturizada granulada hidratada Nutri Wieder,100.0,53.61,6.08,19.01,0.76
+Leite em pó desnatado Piracanjuba,20.0,74.0,11.0,7.5,0.0
+Carne moída acém crua,100.0,128.0,0.0,19.7,5.56
+Queijo mussarela Docioli,30.0,92.0,0.0,7.5,6.9
+Queijo parmesão ralado President,10.0,47.0,1.4,3.0,3.3
+Picanha com gordura,100.0,280.0,0.0,26.3,19.5
+Pão Sevenboys Castanha & Nozes,50.0,136.0,20.0,6.4,3.4
+Seara Presunto Levíssimo,100.0,79.0,1.6,16.0,1.0
+Bife à milanesa,85.0,284.0,10.4,17.62,18.78
+Pastel caseiro carne,1.0,144.33,10.67,6.67,8.33
+Pastel caseiro queijo,1.0,144.68,10.67,3.0,10.0
+Leite integral Piracanjuba,200.0,116.0,9.2,6.2,6.0
+Frango à milanesa,100.0,232.0,7.23,23.9,11.35
+,,,,,
+Óleo de soja,11.96,108.0,0.0,0.0,12.0
+Manteiga Tirol,10.0,76.0,0.1,0.0,8.4
+Azeite de oliva,11.96,108.0,0.0,0.0,12.0
+Creme de leite Piracanjuba,100.0,166.0,4.6,3.1,15.0
+Amendoim torrado,100.0,625.0,16.9,27.5,51.8
+Amendoim granulado Nutri Wieder,15.0,85.0,2.0,4.0,7.0
+Creme de leite Italac,100.0,166.0,4.8,3.0,15.0
+Noz crua,100.0,649.0,18.4,14.0,59.4
+Amendoim torrado e granulado Martinho,15.0,80.0,1.5,4.5,6.2
+Pasta de amendoim Dacolônia,15.0,91.0,1.2,4.2,7.7
+Pasta de amendoim Dacolônia Diluído,15.0,54.6,0.72,2.52,4.62
+Pasta de amendoim Dr. Peanut – Brownie,15.0,83.0,3.0,2.9,6.9
+Pasta de amendoim Dr. Peanut – Boníssimo,15.0,88.0,3.5,2.8,7.3
+pirulito,1.0,24.0,6.0,0.0,0.0
